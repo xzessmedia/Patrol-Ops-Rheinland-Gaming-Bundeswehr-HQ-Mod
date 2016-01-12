@@ -1,7 +1,7 @@
 # Patrol-Ops-Rheinland-Gaming-Bundeswehr-HQ-Mod
 Das ist das Bundeswehr HQ Mod mit RHS Mod, Ace etc von Rheinland-Gaming.de für das Spiel Arma3
 
-basierend auf Patrol Ops, gemodded von xzesstence für Rheinland-Gaming.de
+basierend auf Patrol Ops, gemodded von xzesstence für www.Rheinland-Gaming.de
 
 
 # Addon Requirements:
